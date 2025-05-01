@@ -113,18 +113,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jetandrotor.com.ico",
     "slug": "jet-and-rotor",
     "status": "down",
-    "uptime": "2.79%",
-    "uptimeDay": "2.79%",
-    "uptimeWeek": "2.79%",
-    "uptimeMonth": "2.79%",
-    "uptimeYear": "2.79%",
+    "uptime": "1.93%",
+    "uptimeDay": "1.93%",
+    "uptimeWeek": "1.93%",
+    "uptimeMonth": "1.93%",
+    "uptimeYear": "1.93%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 18
+      "2025-05-01": 26
     }
   },
   {
@@ -324,7 +324,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 18
+      "2025-05-01": 26
     }
   }
 ]
