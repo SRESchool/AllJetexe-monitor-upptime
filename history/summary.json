@@ -113,18 +113,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jetandrotor.com.ico",
     "slug": "jet-and-rotor",
     "status": "down",
-    "uptime": "1.48%",
-    "uptimeDay": "1.48%",
-    "uptimeWeek": "1.48%",
-    "uptimeMonth": "1.48%",
-    "uptimeYear": "1.48%",
+    "uptime": "0.60%",
+    "uptimeDay": "0.60%",
+    "uptimeWeek": "0.60%",
+    "uptimeMonth": "0.60%",
+    "uptimeYear": "0.60%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 34
+      "2025-05-01": 84
     }
   },
   {
@@ -313,18 +313,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/buymlocal.com.ico",
     "slug": "buy-m-local",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 34
+      "2025-05-01": 84
     }
   }
 ]
