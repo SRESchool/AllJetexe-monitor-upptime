@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/aiaviationacademy.com.ico",
     "slug": "ai-aviation-academy",
     "status": "up",
-    "uptime": "96.77%",
+    "uptime": "96.82%",
     "uptimeDay": "96.60%",
-    "uptimeWeek": "96.77%",
-    "uptimeMonth": "96.77%",
-    "uptimeYear": "96.77%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "96.82%",
+    "uptimeYear": "96.82%",
     "time": 4083,
     "timeDay": 4091,
     "timeWeek": 4083,
@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 758,
+      "2025-05-02": 786,
       "2025-05-01": 754
     }
   },
@@ -136,11 +136,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jetexe.com.ico",
     "slug": "jet-exe",
     "status": "up",
-    "uptime": "96.76%",
+    "uptime": "96.82%",
     "uptimeDay": "96.60%",
-    "uptimeWeek": "96.76%",
-    "uptimeMonth": "96.76%",
-    "uptimeYear": "96.76%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "96.82%",
+    "uptimeYear": "96.82%",
     "time": 2143,
     "timeDay": 2167,
     "timeWeek": 2143,
@@ -329,7 +329,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 758,
+      "2025-05-02": 786,
       "2025-05-01": 754
     }
   }
