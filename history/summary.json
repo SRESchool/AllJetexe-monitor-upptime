@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 347,
+      "2025-05-03": 355,
       "2025-05-02": 1440,
       "2025-05-01": 754
     }
@@ -137,11 +137,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jetexe.com.ico",
     "slug": "jet-exe",
     "status": "up",
-    "uptime": "98.07%",
+    "uptime": "98.08%",
     "uptimeDay": "96.60%",
-    "uptimeWeek": "98.07%",
-    "uptimeMonth": "98.07%",
-    "uptimeYear": "98.07%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "98.08%",
     "time": 1755,
     "timeDay": 2356,
     "timeWeek": 1755,
@@ -330,7 +330,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 347,
+      "2025-05-03": 355,
       "2025-05-02": 1440,
       "2025-05-01": 754
     }
