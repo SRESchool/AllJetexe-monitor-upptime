@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/aiaviationacademy.com.ico",
     "slug": "ai-aviation-academy",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "98.45%",
-    "time": 3636,
-    "timeDay": 3160,
-    "timeWeek": 3636,
-    "timeMonth": 3636,
-    "timeYear": 3636,
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "98.46%",
+    "time": 3631,
+    "timeDay": 3159,
+    "timeWeek": 3631,
+    "timeMonth": 3631,
+    "timeYear": 3631,
     "dailyMinutesDown": {
       "2025-05-02": 49
     }
@@ -85,7 +85,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 433,
-    "timeDay": 415,
+    "timeDay": 414,
     "timeWeek": 433,
     "timeMonth": 433,
     "timeYear": 433,
@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 958,
+      "2025-05-03": 983,
       "2025-05-02": 1440,
       "2025-05-01": 754
     }
@@ -137,16 +137,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jetexe.com.ico",
     "slug": "jet-exe",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "98.45%",
-    "time": 1584,
-    "timeDay": 1012,
-    "timeWeek": 1584,
-    "timeMonth": 1584,
-    "timeYear": 1584,
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "98.46%",
+    "time": 1581,
+    "timeDay": 1017,
+    "timeWeek": 1581,
+    "timeMonth": 1581,
+    "timeYear": 1581,
     "dailyMinutesDown": {
       "2025-05-02": 49
     }
@@ -253,7 +253,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 427,
-    "timeDay": 424,
+    "timeDay": 423,
     "timeWeek": 427,
     "timeMonth": 427,
     "timeYear": 427,
@@ -307,7 +307,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 421,
-    "timeDay": 414,
+    "timeDay": 415,
     "timeWeek": 421,
     "timeMonth": 421,
     "timeYear": 421,
@@ -330,7 +330,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 958,
+      "2025-05-03": 984,
       "2025-05-02": 1440,
       "2025-05-01": 754
     }
