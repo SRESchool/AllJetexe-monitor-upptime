@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aiaviationacademy.com.ico",
     "slug": "ai-aviation-academy",
     "status": "up",
-    "uptime": "90.01%",
-    "uptimeDay": "59.23%",
-    "uptimeWeek": "90.01%",
-    "uptimeMonth": "90.01%",
-    "uptimeYear": "90.01%",
+    "uptime": "89.73%",
+    "uptimeDay": "57.87%",
+    "uptimeWeek": "89.73%",
+    "uptimeMonth": "89.73%",
+    "uptimeYear": "89.73%",
     "time": 3364,
-    "timeDay": 3214,
+    "timeDay": 3246,
     "timeWeek": 3364,
     "timeMonth": 3364,
     "timeYear": 3364,
     "dailyMinutesDown": {
-      "2025-05-05": 587,
+      "2025-05-05": 607,
       "2025-05-02": 49
     }
   },
@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aircrafto.com.ico",
     "slug": "aircraft-o",
     "status": "up",
-    "uptime": "90.78%",
-    "uptimeDay": "59.26%",
-    "uptimeWeek": "90.78%",
-    "uptimeMonth": "90.78%",
-    "uptimeYear": "90.78%",
-    "time": 423,
+    "uptime": "90.50%",
+    "uptimeDay": "57.91%",
+    "uptimeWeek": "90.50%",
+    "uptimeMonth": "90.50%",
+    "uptimeYear": "90.50%",
+    "time": 424,
     "timeDay": 412,
-    "timeWeek": 423,
-    "timeMonth": 423,
-    "timeYear": 423,
+    "timeWeek": 424,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {
-      "2025-05-05": 587
+      "2025-05-05": 606
     }
   },
   {
@@ -46,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/charterkings.com.ico",
     "slug": "charter-kings",
     "status": "up",
-    "uptime": "90.79%",
-    "uptimeDay": "59.30%",
-    "uptimeWeek": "90.79%",
-    "uptimeMonth": "90.79%",
-    "uptimeYear": "90.79%",
-    "time": 421,
+    "uptime": "90.51%",
+    "uptimeDay": "57.94%",
+    "uptimeWeek": "90.51%",
+    "uptimeMonth": "90.51%",
+    "uptimeYear": "90.51%",
+    "time": 422,
     "timeDay": 416,
-    "timeWeek": 421,
-    "timeMonth": 421,
-    "timeYear": 421,
+    "timeWeek": 422,
+    "timeMonth": 422,
+    "timeYear": 422,
     "dailyMinutesDown": {
-      "2025-05-05": 586
+      "2025-05-05": 606
     }
   },
   {
@@ -66,18 +66,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/executiveairrepair.com.ico",
     "slug": "executive-air-repair",
     "status": "up",
-    "uptime": "90.80%",
-    "uptimeDay": "59.33%",
-    "uptimeWeek": "90.80%",
-    "uptimeMonth": "90.80%",
-    "uptimeYear": "90.80%",
-    "time": 426,
+    "uptime": "90.52%",
+    "uptimeDay": "57.98%",
+    "uptimeWeek": "90.52%",
+    "uptimeMonth": "90.52%",
+    "uptimeYear": "90.52%",
+    "time": 427,
     "timeDay": 424,
-    "timeWeek": 426,
-    "timeMonth": 426,
-    "timeYear": 426,
+    "timeWeek": 427,
+    "timeMonth": 427,
+    "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-05-05": 586
+      "2025-05-05": 605
     }
   },
   {
@@ -86,18 +86,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/flighttrainingus.com.ico",
     "slug": "flight-training-us",
     "status": "up",
-    "uptime": "90.81%",
-    "uptimeDay": "59.37%",
-    "uptimeWeek": "90.81%",
-    "uptimeMonth": "90.81%",
-    "uptimeYear": "90.81%",
-    "time": 433,
+    "uptime": "90.53%",
+    "uptimeDay": "58.01%",
+    "uptimeWeek": "90.53%",
+    "uptimeMonth": "90.53%",
+    "uptimeYear": "90.53%",
+    "time": 434,
     "timeDay": 418,
-    "timeWeek": 433,
-    "timeMonth": 433,
-    "timeYear": 433,
+    "timeWeek": 434,
+    "timeMonth": 434,
+    "timeYear": 434,
     "dailyMinutesDown": {
-      "2025-05-05": 585
+      "2025-05-05": 605
     }
   },
   {
@@ -106,18 +106,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/flyaiaa.com.ico",
     "slug": "fly-aiaa",
     "status": "up",
-    "uptime": "90.81%",
-    "uptimeDay": "59.41%",
-    "uptimeWeek": "90.81%",
-    "uptimeMonth": "90.81%",
-    "uptimeYear": "90.81%",
-    "time": 420,
-    "timeDay": 422,
-    "timeWeek": 420,
-    "timeMonth": 420,
-    "timeYear": 420,
+    "uptime": "90.54%",
+    "uptimeDay": "58.05%",
+    "uptimeWeek": "90.54%",
+    "uptimeMonth": "90.54%",
+    "uptimeYear": "90.54%",
+    "time": 421,
+    "timeDay": 424,
+    "timeWeek": 421,
+    "timeMonth": 421,
+    "timeYear": 421,
     "dailyMinutesDown": {
-      "2025-05-05": 585
+      "2025-05-05": 604
     }
   },
   {
@@ -137,7 +137,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-05": 1290,
+      "2025-05-05": 1309,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
@@ -150,18 +150,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jetexe.com.ico",
     "slug": "jet-exe",
     "status": "up",
-    "uptime": "90.06%",
-    "uptimeDay": "59.47%",
-    "uptimeWeek": "90.06%",
-    "uptimeMonth": "90.06%",
-    "uptimeYear": "90.06%",
-    "time": 1329,
-    "timeDay": 1097,
-    "timeWeek": 1329,
-    "timeMonth": 1329,
-    "timeYear": 1329,
+    "uptime": "89.79%",
+    "uptimeDay": "58.12%",
+    "uptimeWeek": "89.79%",
+    "uptimeMonth": "89.79%",
+    "uptimeYear": "89.79%",
+    "time": 1325,
+    "timeDay": 1094,
+    "timeWeek": 1325,
+    "timeMonth": 1325,
+    "timeYear": 1325,
     "dailyMinutesDown": {
-      "2025-05-05": 584,
+      "2025-05-05": 603,
       "2025-05-02": 49
     }
   },
@@ -171,18 +171,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kitplanepart.com.ico",
     "slug": "kit-plane-part",
     "status": "up",
-    "uptime": "90.84%",
-    "uptimeDay": "59.51%",
-    "uptimeWeek": "90.84%",
-    "uptimeMonth": "90.84%",
-    "uptimeYear": "90.84%",
-    "time": 425,
-    "timeDay": 421,
-    "timeWeek": 425,
-    "timeMonth": 425,
-    "timeYear": 425,
+    "uptime": "90.56%",
+    "uptimeDay": "58.16%",
+    "uptimeWeek": "90.56%",
+    "uptimeMonth": "90.56%",
+    "uptimeYear": "90.56%",
+    "time": 426,
+    "timeDay": 422,
+    "timeWeek": 426,
+    "timeMonth": 426,
+    "timeYear": 426,
     "dailyMinutesDown": {
-      "2025-05-05": 583
+      "2025-05-05": 603
     }
   },
   {
@@ -191,18 +191,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/learnflying.com.ico",
     "slug": "learn-flying",
     "status": "up",
-    "uptime": "90.85%",
-    "uptimeDay": "59.55%",
-    "uptimeWeek": "90.85%",
-    "uptimeMonth": "90.85%",
-    "uptimeYear": "90.85%",
-    "time": 425,
+    "uptime": "90.57%",
+    "uptimeDay": "58.19%",
+    "uptimeWeek": "90.57%",
+    "uptimeMonth": "90.57%",
+    "uptimeYear": "90.57%",
+    "time": 426,
     "timeDay": 426,
-    "timeWeek": 425,
-    "timeMonth": 425,
-    "timeYear": 425,
+    "timeWeek": 426,
+    "timeMonth": 426,
+    "timeYear": 426,
     "dailyMinutesDown": {
-      "2025-05-05": 583
+      "2025-05-05": 602
     }
   },
   {
@@ -211,18 +211,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lightsportwest.com.ico",
     "slug": "light-sport-west",
     "status": "up",
-    "uptime": "90.85%",
-    "uptimeDay": "59.58%",
-    "uptimeWeek": "90.85%",
-    "uptimeMonth": "90.85%",
-    "uptimeYear": "90.85%",
-    "time": 423,
-    "timeDay": 408,
-    "timeWeek": 423,
-    "timeMonth": 423,
-    "timeYear": 423,
+    "uptime": "90.58%",
+    "uptimeDay": "58.23%",
+    "uptimeWeek": "90.58%",
+    "uptimeMonth": "90.58%",
+    "uptimeYear": "90.58%",
+    "time": 424,
+    "timeDay": 410,
+    "timeWeek": 424,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {
-      "2025-05-05": 582
+      "2025-05-05": 602
     }
   },
   {
@@ -231,18 +231,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pilotsdeal.com.ico",
     "slug": "pilots-deal",
     "status": "up",
-    "uptime": "90.86%",
-    "uptimeDay": "59.62%",
-    "uptimeWeek": "90.86%",
-    "uptimeMonth": "90.86%",
-    "uptimeYear": "90.86%",
+    "uptime": "90.58%",
+    "uptimeDay": "58.26%",
+    "uptimeWeek": "90.58%",
+    "uptimeMonth": "90.58%",
+    "uptimeYear": "90.58%",
     "time": 425,
     "timeDay": 423,
     "timeWeek": 425,
     "timeMonth": 425,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2025-05-05": 582
+      "2025-05-05": 601
     }
   },
   {
@@ -251,18 +251,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pegasus-estates.com.ico",
     "slug": "pegasus-estates",
     "status": "up",
-    "uptime": "90.87%",
-    "uptimeDay": "59.65%",
-    "uptimeWeek": "90.87%",
-    "uptimeMonth": "90.87%",
-    "uptimeYear": "90.87%",
-    "time": 427,
-    "timeDay": 421,
-    "timeWeek": 427,
-    "timeMonth": 427,
-    "timeYear": 427,
+    "uptime": "90.59%",
+    "uptimeDay": "58.30%",
+    "uptimeWeek": "90.59%",
+    "uptimeMonth": "90.59%",
+    "uptimeYear": "90.59%",
+    "time": 428,
+    "timeDay": 422,
+    "timeWeek": 428,
+    "timeMonth": 428,
+    "timeYear": 428,
     "dailyMinutesDown": {
-      "2025-05-05": 581
+      "2025-05-05": 601
     }
   },
   {
@@ -271,18 +271,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pilotsindia.com.ico",
     "slug": "pilots-india",
     "status": "up",
-    "uptime": "90.88%",
-    "uptimeDay": "59.69%",
-    "uptimeWeek": "90.88%",
-    "uptimeMonth": "90.88%",
-    "uptimeYear": "90.88%",
+    "uptime": "90.60%",
+    "uptimeDay": "58.33%",
+    "uptimeWeek": "90.60%",
+    "uptimeMonth": "90.60%",
+    "uptimeYear": "90.60%",
     "time": 426,
     "timeDay": 418,
     "timeWeek": 426,
     "timeMonth": 426,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2025-05-05": 580
+      "2025-05-05": 600
     }
   },
   {
@@ -291,18 +291,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pilottrainingus.com.ico",
     "slug": "pilot-training-us",
     "status": "up",
-    "uptime": "90.89%",
-    "uptimeDay": "59.72%",
-    "uptimeWeek": "90.89%",
-    "uptimeMonth": "90.89%",
-    "uptimeYear": "90.89%",
+    "uptime": "90.61%",
+    "uptimeDay": "58.37%",
+    "uptimeWeek": "90.61%",
+    "uptimeMonth": "90.61%",
+    "uptimeYear": "90.61%",
     "time": 423,
-    "timeDay": 417,
+    "timeDay": 418,
     "timeWeek": 423,
     "timeMonth": 423,
     "timeYear": 423,
     "dailyMinutesDown": {
-      "2025-05-05": 580
+      "2025-05-05": 599
     }
   },
   {
@@ -311,18 +311,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/planespart.com.ico",
     "slug": "planes-part",
     "status": "up",
-    "uptime": "90.89%",
-    "uptimeDay": "59.76%",
-    "uptimeWeek": "90.89%",
-    "uptimeMonth": "90.89%",
-    "uptimeYear": "90.89%",
+    "uptime": "90.62%",
+    "uptimeDay": "58.41%",
+    "uptimeWeek": "90.62%",
+    "uptimeMonth": "90.62%",
+    "uptimeYear": "90.62%",
     "time": 420,
     "timeDay": 416,
     "timeWeek": 420,
     "timeMonth": 420,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2025-05-05": 579
+      "2025-05-05": 599
     }
   },
   {
@@ -331,18 +331,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/proezi.com.ico",
     "slug": "pro-ezi",
     "status": "up",
-    "uptime": "90.90%",
-    "uptimeDay": "59.80%",
-    "uptimeWeek": "90.90%",
-    "uptimeMonth": "90.90%",
-    "uptimeYear": "90.90%",
+    "uptime": "90.62%",
+    "uptimeDay": "58.44%",
+    "uptimeWeek": "90.62%",
+    "uptimeMonth": "90.62%",
+    "uptimeYear": "90.62%",
     "time": 423,
-    "timeDay": 415,
+    "timeDay": 417,
     "timeWeek": 423,
     "timeMonth": 423,
     "timeYear": 423,
     "dailyMinutesDown": {
-      "2025-05-05": 579
+      "2025-05-05": 598
     }
   },
   {
@@ -362,7 +362,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-05": 1290,
+      "2025-05-05": 1309,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
